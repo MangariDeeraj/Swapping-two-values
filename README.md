@@ -18,8 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
+```
+Developed by:Mangari Deeraj
+Regsiter No:212223100031
+```
+```
+surya_ball = input()
+vijay_ball = input()
+temp = surya_ball
+surya_ball = vijay_ball
+vijay_ball = temp
+print("Swapped values are:",surya_ball,vijay_ball)
+```
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/90bd781f-3e29-4df3-b711-d02a63f219f4)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
